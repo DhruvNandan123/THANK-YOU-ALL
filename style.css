@@ -1,0 +1,42 @@
+
+div {
+
+
+    display: flex;
+    
+    
+    justify-content: center;
+    
+    
+    }
+    
+    
+     
+    
+    
+    img {
+    
+    
+    width: 600px;
+    border: blueviolet 8px solid;
+    border-radius: 8px;
+    
+    
+    }
+    
+    body {
+
+
+        background-color: cornflowerblue;
+        text-align: center;
+
+
+    }
+
+    b {
+        color :red;
+    }
+
+    h1,h2 {
+        color: white;
+    }
